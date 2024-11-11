@@ -25,3 +25,5 @@ class Person(ABC):
 #     man = Person("John", 12)
 #     man.hello()
 #     man.update_age(13)
+
+print('변경 for commit')
