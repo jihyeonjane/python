@@ -19,3 +19,7 @@ print("rebase 다시 해보자. 작업한 것은 4개..!")
 
 print("version 6")
 print("어렵다")
+
+print("version7")
+print("version7-2 다시 여러 브랜치 동시 도전")
+print("version6부터 할겁니다.")
