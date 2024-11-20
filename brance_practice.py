@@ -21,3 +21,4 @@ print("version 6")
 print("어렵다")
 
 print("version7")
+print("version7-2 다시 여러 브랜치 동시 도전")
