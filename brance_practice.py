@@ -18,3 +18,4 @@ print("rebase 다시 해보자. 작업한 것은 4개..!")
 
 
 print("version 6")
+print("어렵다")
