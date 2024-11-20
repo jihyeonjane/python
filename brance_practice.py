@@ -12,3 +12,4 @@ print("어려워요 ver04")
 print("branch 뭐야")
 
 print("ver05")
+print("ver05-2")
