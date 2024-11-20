@@ -12,3 +12,6 @@ print("이게 문제가 맞나 보자구요")
 
 print("something wrong....")
 print("그냥 master commit")
+
+
+print("난 다른 작업이지롱")
