@@ -15,3 +15,7 @@ print("ver05")
 print("ver05-2")
 print("아직도 모르겠어....")
 print("rebase 다시 해보자. 작업한 것은 4개..!")
+
+
+print("version 6")
+print("어렵다")
